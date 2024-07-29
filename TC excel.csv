@@ -1,0 +1,12 @@
+TC_ID,Testcase_Name,Pre-Condition,Test Description,Test Step,Test Data,Test Result
+TC_001,Homepage,"Internet accessable
+Valid URL",Verify the user can able to see Homepage,Open the browser and enter the valid  URL,http://49.249.28.218:8081/AppServer/Online_Shopping_Application/,"User should enter valid URL and 
+internet should be accessable"
+,,,,Click on Enter button,,Homepage should be displayed
+,,,,,,
+TC_002,Login Link,"Internet accessable
+Valid URL 
+",Verify the user can able to click on login link,Open the Browser and enter the Url,http://49.249.28.218:8081/AppServer/Online_Shopping_Application/,"User should enter valid URL and 
+internet should be accessable"
+,,,,Click on Enter button,,Homepage should be displayed
+,,,,click on Login link ,,Login page should display
